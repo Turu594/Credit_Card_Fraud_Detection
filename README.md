@@ -24,7 +24,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 ![image](https://github.com/Turu594/Credit_Card_Fraud_Detection/assets/61057011/cbf4964f-0680-4ae1-8305-65e06e69abed)
 
-#Conclusion
+#Conclusion:
 
 After performing several models, we have seen that in the balanced dataset with SMOTE technique the RF model has good ROC score and also high Recall. Hence, we can go with the RF model here. It is also easier to interpret and explain to the business.
 
